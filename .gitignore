@@ -1,0 +1,9 @@
+
+.gemini/
+
+
+node_modules/
+.cache/
+*.log
+build/
+
